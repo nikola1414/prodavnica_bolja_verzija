@@ -17,7 +17,7 @@ h3 {
 .container {
 	max-width: 800px;
 	margin: auto;
-	border: 2px solid navy;
+	border: 2px solid blue;
 	border-radius: 30px;
 	display: flex;
 	background-color: lightgrey;
